@@ -1,7 +1,3 @@
-¡Claro! Aquí tienes un ejemplo de un archivo **README.md** para tu proyecto `TiendaDeAna`, escrito en español y con estilo profesional pero amigable:
-
----
-
 # 🛍️ TiendaDeAna
 
 **TiendaDeAna** es una aplicación de consola en C# que simula una tienda virtual donde los usuarios pueden ver productos, realizar compras y recibir un resumen con descuentos aplicables. Ideal para aprender conceptos básicos de programación orientada a objetos, listas, ciclos y entrada/salida en consola.
@@ -52,4 +48,3 @@
 
 
 
-¿Quieres que lo traduzca al inglés o que lo convierta en una presentación para mostrarlo en clase?
