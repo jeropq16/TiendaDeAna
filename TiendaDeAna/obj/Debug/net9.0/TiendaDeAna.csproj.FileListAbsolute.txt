@@ -1,0 +1,14 @@
+C:\Users\Jero\Desktop\TiendaDeAna\bin\Debug\net9.0\TiendaDeAna.exe
+C:\Users\Jero\Desktop\TiendaDeAna\bin\Debug\net9.0\TiendaDeAna.deps.json
+C:\Users\Jero\Desktop\TiendaDeAna\bin\Debug\net9.0\TiendaDeAna.runtimeconfig.json
+C:\Users\Jero\Desktop\TiendaDeAna\bin\Debug\net9.0\TiendaDeAna.dll
+C:\Users\Jero\Desktop\TiendaDeAna\bin\Debug\net9.0\TiendaDeAna.pdb
+C:\Users\Jero\Desktop\TiendaDeAna\obj\Debug\net9.0\TiendaDeAna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jero\Desktop\TiendaDeAna\obj\Debug\net9.0\TiendaDeAna.AssemblyInfoInputs.cache
+C:\Users\Jero\Desktop\TiendaDeAna\obj\Debug\net9.0\TiendaDeAna.AssemblyInfo.cs
+C:\Users\Jero\Desktop\TiendaDeAna\obj\Debug\net9.0\TiendaDeAna.csproj.CoreCompileInputs.cache
+C:\Users\Jero\Desktop\TiendaDeAna\obj\Debug\net9.0\TiendaDeAna.dll
+C:\Users\Jero\Desktop\TiendaDeAna\obj\Debug\net9.0\refint\TiendaDeAna.dll
+C:\Users\Jero\Desktop\TiendaDeAna\obj\Debug\net9.0\TiendaDeAna.pdb
+C:\Users\Jero\Desktop\TiendaDeAna\obj\Debug\net9.0\TiendaDeAna.genruntimeconfig.cache
+C:\Users\Jero\Desktop\TiendaDeAna\obj\Debug\net9.0\ref\TiendaDeAna.dll
